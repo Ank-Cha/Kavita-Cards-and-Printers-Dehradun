@@ -342,6 +342,13 @@
     margin: 0;
   }
 
+  @media (min-width: 768px) {
+    .slider .col-md-8 {
+      padding-left: 10;
+    }
+  }
+
+
   .slider .owl-dots {
     position: absolute;
     top: 50%;
