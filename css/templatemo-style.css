@@ -1,10 +1,4 @@
-/*
 
-Eatery Cafe Template 
-
-http://www.templatemo.com/tm-515-eatery
-
-*/
 
   @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
@@ -17,7 +11,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     TYPOGRAPHY              
+     TYPOGRAPHY
   -----------------------------------------*/
 
   h1,h2,h3,h4,h5,h6 {
@@ -57,7 +51,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     GENERAL               
+     GENERAL
   -----------------------------------------*/
 
   html{
@@ -118,7 +112,7 @@ http://www.templatemo.com/tm-515-eatery
     padding: 100px 0;
   }
 
-  #team, 
+  #team,
   #menu,
   #testimonial {
     text-align: center;
@@ -128,7 +122,7 @@ http://www.templatemo.com/tm-515-eatery
   .team-thumb img {
     width: 100%;
   }
-  
+
   #google-map iframe {
     border: 0;
     width: 100%;
@@ -138,7 +132,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     BUTTONS               
+     BUTTONS
   -----------------------------------------*/
 
   .section-btn {
@@ -155,7 +149,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-       PRE LOADER              
+       PRE LOADER
   -----------------------------------------*/
 
   .preloader {
@@ -205,7 +199,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-      MENU              
+      MENU
   -----------------------------------------*/
 
   .custom-navbar {
@@ -300,7 +294,7 @@ http://www.templatemo.com/tm-515-eatery
   @media(min-width:768px) {
     .custom-navbar {
       border-bottom: 0;
-      background: 0 0; 
+      background: 0 0;
     }
 
     .custom-navbar.top-nav-collapse {
@@ -327,7 +321,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-      HOME              
+      HOME
   -----------------------------------------*/
 
   #home {
@@ -346,12 +340,6 @@ http://www.templatemo.com/tm-515-eatery
     letter-spacing: 2px;
     text-transform: uppercase;
     margin: 0;
-  }
-
-  @media (min-width: 768px) {
-    .slider .col-md-8 {
-      padding-left: 0;
-    }
   }
 
   .slider .owl-dots {
@@ -437,7 +425,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-      ABOUT              
+      ABOUT
   -----------------------------------------*/
 
   #about {
@@ -459,7 +447,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-      TEAM              
+      TEAM
   -----------------------------------------*/
 
   #team {
@@ -541,7 +529,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     MENU              
+     MENU
   -----------------------------------------*/
 
   #menu {
@@ -638,7 +626,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-      TESTIMONIAL             
+      TESTIMONIAL
   -----------------------------------------*/
 
   #testimonial {
@@ -694,7 +682,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-      CONTACT             
+      CONTACT
   -----------------------------------------*/
 
   #contact .section-title {
@@ -744,7 +732,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     FOOTER              
+     FOOTER
   -----------------------------------------*/
 
   footer {
@@ -821,7 +809,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     SOCIAL ICON              
+     SOCIAL ICON
   -----------------------------------------*/
 
   .social-icon {
@@ -857,7 +845,7 @@ http://www.templatemo.com/tm-515-eatery
 
 
   /*---------------------------------------
-     RESPONSIVE STYLES              
+     RESPONSIVE STYLES
   -----------------------------------------*/
 
   @media screen and (max-width: 1170px) {
@@ -1004,4 +992,3 @@ http://www.templatemo.com/tm-515-eatery
       top: 60%;
     }
   }
-
